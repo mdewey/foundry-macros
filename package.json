@@ -1,0 +1,11 @@
+{
+  "name": "foundry-macros",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mdewey/foundry-macros.git",
+  "author": "Mark Dewey <mtdewey55@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.19.0"
+  }
+}
